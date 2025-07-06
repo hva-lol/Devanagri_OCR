@@ -19,4 +19,4 @@ Model Train file- Hindi.py
 Testing individual images- check.py
 
 # Output
-Accuracy achieved in 25 epochs- 98.94%
+Accuracy achieved in 25 epochs- 97.70%
