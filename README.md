@@ -8,7 +8,7 @@ https://archive.ics.uci.edu/ml/datasets/Devanagari+Handwritten+Character+Dataset
 The dataset contains 92,000 images of handwritten hindi characters belonging to 46 classes. The data is splitted into training set(85%) and test set(15%). The images are of size 32x32 in .png format.
 
 # Architecture
-The architecture involves four CNN layers followed by 3 fully connected layer. The final layers using softmax function helps to provide the most probable answer.
+The architecture involves four CNN layers followed by 3 fully connected layers. The final layers using softmax function helps to provide the most probable answer.
 
 # Implementation Details
 Loss function- Categorical Cross entropy
