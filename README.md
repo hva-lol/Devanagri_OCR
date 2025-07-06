@@ -12,7 +12,9 @@ The architecture involves four CNN layers followed by 3 fully connected layer. T
 
 # Implementation Details
 Loss function- Categorical Cross entropy
+
 Optimizer- Adam
+
 Final output layer activation- Softmax
 
 # Output
