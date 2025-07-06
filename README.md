@@ -15,8 +15,5 @@ Loss function- Categorical Cross entropy
 Optimizer- Adam
 Final output layer activation- Softmax
 
-Model Train file- Hindi.py
-Testing individual images- check.py
-
 # Output
 Accuracy achieved in 25 epochs- 97.70%
