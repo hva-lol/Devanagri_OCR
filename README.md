@@ -1,4 +1,4 @@
-# Hindi-OCR
+# Hindi Script Optical Character Recognition
 
 This  model involves recognition of hindi hand written characters using Convolutional neural network. 
 Python implementation using keras has been done. The dataset can be downloaded from the following link:
